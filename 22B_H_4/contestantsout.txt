@@ -1,0 +1,12 @@
+Name                                        Scores                   Final Score
+James Michael Owen        9.9      9.6      9.9      9.0      9.3       9.60
+Marie Kondo               9.6      9.0      9.9      9.9      9.3       9.60
+Tina Queen                9.0      9.6      9.9      9.9      9.3       9.60
+Jonathan Edwards          9.9      9.6      9.0      9.9      9.3       9.60
+Linda Johnson             9.3      9.6      9.9      9.9      9.0       9.60
+Dana Wu                   9.0      8.8      9.1      9.7      9.3       9.13
+Steve Chen                8.3      2.9      9.8      9.2      9.7       9.07
+Kevin Yu                  8.3      9.2      9.8      2.9      9.7       9.07
+Tom A. Retter             9.1      8.9      9.0      8.7      9.1       9.00
+Bob Schuster              8.2      8.4      8.9      9.3      8.5       8.60
+Mary Livingston           8.3      8.0      8.9      7.9      8.5       8.27

@@ -1,0 +1,1 @@
+7John Lee; 8.3 7.5 8.9 9.9 8.6David T. Ng; 8.3 8.9 9.9 8.6 7.5 Mary Johnson; 8.3 7.5 8.9 8.6 9.9 Andy V. Garcia; 7.5 8.3 8.9 9.9 8.6John Lee; 9.9 8.3 7.5 8.9 8.6Ann Peterson; 8.3 8.9 9.9 7.5 8.6Dan Nguyen; 8.3 9.9 7.5 8.9 8.6

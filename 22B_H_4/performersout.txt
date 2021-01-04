@@ -1,0 +1,9 @@
+Name                                        Scores                   Final Score
+Ann Peterson              9.0      8.8      9.1      9.7      9.3       9.13
+David T. Ng               8.3      2.9      9.8      9.2      9.7       9.07
+Andy V. Garcia            9.1      8.9      9.0      8.7      9.1       9.00
+Lucy A. Smith             8.2      8.4      8.9      9.3      8.5       8.60
+Dan Nguyen                9.0      5.6      8.9      9.9      7.3       8.40
+Mary Johnson              8.3      8.0      8.9      7.9      8.5       8.27
+Sue K. Warren             7.9      8.2      7.6      8.1      8.0       8.00
+John Lee                  7.0      7.8      7.1      7.9      7.5       7.47

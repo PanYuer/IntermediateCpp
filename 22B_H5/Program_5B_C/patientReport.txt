@@ -1,0 +1,21 @@
+Weight Status Report
+==================== === ====== ====== =============
+Name                 Age Height Weight Status    
+==================== === ====== ====== =============
+Jane North           25  66     120    Normal    
+Tim South            64  72     251    Obese     
+Linda East           52  69     175    Overweight
+Paul West            31  71     122    Underweight
+Mary Jane Doe        42  65     130    Normal    
+Victor Smith         19  71     150    Normal    
+Mary Johnson         22  67     135    Normal    
+Tom Baker            39  73     229    Obese     
+Diana Newman         26  68     133    Normal    
+William Peterson     54  70     215    Obese     
+Jim Gaddis           28  68     143    Normal    
+Laura King           42  67     115    Underweight
+Ann McDonald         33  71     162    Normal    
+Peter Pan            52  75     270    Obese     
+George Paul Lucas    29  70     144    Normal    
+Monica T. Potter     23  66     135    Normal    
+Andrew Davis         69  72     254    Obese     
