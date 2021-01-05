@@ -1,4 +1,0 @@
-1    bird    manu
-1   hello   aloha
-2    moon  mahina
-1    room    lumi
